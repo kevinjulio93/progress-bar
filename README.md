@@ -1,6 +1,6 @@
 # Progress Bar
 
-![Mock Up](src/assets/imgs/mockup.png)
+![Mock Up](src/assets/imgs/mockup2.png)
 
 In this project we're updating the progress bar to look like the design
 in the mockup.
