@@ -8,6 +8,7 @@ export class ProgressBarComponent {
 
   @Input() color: string = '#5CBCB9';
   @Input() progress: number = 0;
+  
 
   constructor() {}
 
