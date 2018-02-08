@@ -1,3 +1,3 @@
 <div class="progress-outer">
-    <div class="progress-inner" [style.width]="progress + '%'" [style.background-color]="color"><p>{{progress}}</p></div>
+    <div class="progress-inner" [style.width]="progress + '%'" [style.background-color]="color" ><p [hidden]="progress < Min_progress ">{{progress}}%</p></div>
 </div>
